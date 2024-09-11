@@ -10,7 +10,7 @@
 
 ## 📦폴더 구조
 
-
+<details>
 <summary>폴더구조</summary>
 📦mbti-project
 ┣ 📂public
@@ -54,7 +54,7 @@
 ┣ 📜tailwind.config.js
 ┣ 📜vite.config.js
 ┗ 📜yarn.lock
-
+</details>
 <br/>
 
 ## 💻 개발 환경
